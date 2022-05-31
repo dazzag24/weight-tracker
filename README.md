@@ -1,0 +1,1 @@
+https://codecapsules.io/docs/tutorials/build-flask-htmx-app/
